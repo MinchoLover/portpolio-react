@@ -59,7 +59,7 @@ export const siteText = [
         text: ["make", "site compliant with", "react"],
         title: "리액트를 이용한 사이트 제작",
         code: "https://github.com/MinchoLover/portpolio-react",
-        view: "netlify",
+        view: "https://mincholover.netlify.app",
 
         info: [
             "site coding",
