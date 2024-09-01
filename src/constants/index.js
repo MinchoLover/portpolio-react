@@ -39,18 +39,18 @@ export const introText = {
 
 export const skillText = [
     {
-        title: "Not Coding, But Finding",
-        desc:  "빗발치는 삶 가운데, 나는 의미를 부여하는 것 이상의 가치를 찾는 중이다. 무언가를 작성하고 이를 동작시키는 행위를 넘어선 후 그 무언가를 위해.",
+        title: "받는 사람에서 도와주는 사람으로의 성장",
+        desc:  "개발에서 똑같은 환경, 똑같은 코드라 할 지라도, 아름다운 마음가짐에 따라 개발되는 프로그램은 가히 말할 수 없을 정도로 아름답다.",
         
         
     },
     {
-        title: "안녕하세여",
-        desc: ""
+        title: "각기 다른 색채가 조화를 이루어, 특별한 색을 창조",
+        desc: "혼자서는 개발을 할 수 없다. 수많은 사람들이 거쳐간 코드들이 그 증거의 산물이다."
     },
     {
-        title: "",
-        desc: ""
+        title: "1일 1커밋",
+        desc: "밥을 하루라도 굶으면 배가 고파지듯, 코드에 먼지가 쌓이지 않도록 노력하겠다."
     }
 ]
 
@@ -59,7 +59,7 @@ export const siteText = [
         text: ["make", "site compliant with", "react"],
         title: "리액트를 이용한 사이트 제작",
         code: "https://github.com/MinchoLover/portpolio-react",
-        view: "https://port2023-react.netlify.app",
+        view: "netlify",
 
         info: [
             "site coding",
