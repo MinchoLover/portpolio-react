@@ -1,4 +1,4 @@
-import port01 from "../assets/img/port01.jpg";
+import port01 from "../assets/img/HomePage.png";
 import port02 from "../assets/img/port02.jpg";
 import port03 from "../assets/img/port03.jpg";
 import port04 from "../assets/img/port04.jpg";
@@ -39,32 +39,30 @@ export const introText = {
 
 export const skillText = [
     {
-        title: "받는 사람에서 도와주는 사람으로의 성장",
-        desc:  "개발에서 똑같은 환경, 똑같은 코드라 할 지라도, 아름다운 마음가짐에 따라 개발되는 프로그램은 가히 말할 수 없을 정도로 아름답다.",
-        
-        
+        title: "코드로 가치를 창출하는 개발자",
+        desc:  "문제 해결에 있어 효율적인 접근 방식을 항상 추구하며, 기술을 시도하고 연구하는 데 끝없이 달려갑니다.",
     },
     {
-        title: "각기 다른 색채가 조화를 이루어, 특별한 색을 창조",
-        desc: "혼자서는 개발을 할 수 없다. 수많은 사람들이 거쳐간 코드들이 그 증거의 산물이다."
+        title: "올바른 협업으로 완성도 높은 프로덕트를 창출합니다",
+        desc: "개인의 하드 스킬에 의존하기보다, 협업에서의 소프트 스킬을 키우며 성장하는 개발자를 추구합니다."
     },
     {
-        title: "1일 1커밋",
-        desc: "밥을 하루라도 굶으면 배가 고파지듯, 코드에 먼지가 쌓이지 않도록 노력하겠다."
+        title: "꾸준함의 가치를 소중히 여기는 개발자",
+        desc: "꾸준함은 곧 성장의 발판입니다. 하루하루 쌓이는 작은 진전이 미래의 혁신을 만들어냅니다."
     }
 ]
 
 export const siteText = [
     {
-        text: ["make", "site compliant with", "react"],
-        title: "리액트를 이용한 사이트 제작",
-        code: "https://github.com/MinchoLover/portpolio-react",
-        view: "https://mincholover.netlify.app",
+        text: ["We can", "Dream with", "Wecand:"],
+        title: "공모전 매칭 웹 사이트",
+        code: "https://github.com/Club-PARD/GemLense-FE.git",
+        view: "https://wecand.site",
 
         info: [
             "site coding",
-            "production period : four days",
-            "use stack : HTML5/CSS3, CSS Variable, React",
+            "production period : seven days",
+            "use stack : HTML5/CSS3, styled-components, React, FireBase, MySQL, javaspring",
         ],
     },
     {
@@ -100,11 +98,11 @@ export const siteText = [
 export const portText = [
     {
         num: "01",
-        title: "어워드에도 올라간 포트폴리오",
-        desc: "라마 디자인을 통해 자신의 스킬을 가장 멋지게 표현한 포트폴리오입니다. 가로 모드와 세로 모드는 매우 인상적이며 특히 리액트와 비트를 이용하여 제작한 것은 더욱 놀랍습니다. 이 사이트는 awwwards.com에도 인정받아 올라간 포트폴리오입니다. 확실히 그의 뛰어난 디자인 스킬과 기술력이 빛을 발휘한 결과물인 것 같습니다.",
+        title: "We can Dream with Wecand:",
+        desc: "이 사이트는 대학생들이 모르는 사람과 함께 공모전을 나가고자 할 때, 서로의 하드 스킬이나 소프트 스킬을 미리 알 수 있게 해주는 사이트입니다.",
         img: port01,
-        code: "https://github.com/kimsangjunv1/-React-Portfolio",
-        view: "https://portfoliosj-react.netlify.app",
+        code: "https://github.com/Club-PARD/GemLense-FE.git",
+        view: "https://wecand.site",
         name: "김상* 포트폴리오",
     },
     {
@@ -112,7 +110,7 @@ export const portText = [
         title: "빛나는 밤에 포트폴리오",
         desc: "이 사이트는 정말 인상적인 포트폴리오입니다. 특히 스무스한 효과와 가로 모드드 높은 퀄리티를 자랑합니다. 디테일과 꼼꼼함이 넘치는 포트폴리오는 개발자의 뛰어난 능력을 엿볼 수 있습니다. GSAP와 React.js를 이용하여 사이트를 표현한 것은 기술적인 능력과 창의성을 강조하는데, 부족함이 없으며, 세심한 코딩과 디테일한 작업으로 그의 개발 감각과 능력이 빛을 발휘한 것 같습니다. ",
         img: port02,
-        code: "https://github.com/seolhee313/PORTFOLIO-REACT",
+        code: "https://github.com/kimsangjunv1/-React-Portfolio",
         view: "https://portfolio-313.web.app/",
         name: "천설* 포트폴리오",
     },
