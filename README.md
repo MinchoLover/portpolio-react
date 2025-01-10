@@ -4,7 +4,7 @@
 
 ## 사용 스택
 
-- react를 사용하여 사이트를 번들링하고 관리합니다.
+- react
 - gsap
 - lenis
 - netlify
